@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Converterhemin</string>
+    <string name="unit_converter">Unit Converter</string>
+    <string name="enter_no">Enter No.</string>
+    <string name="meter">Meter</string>
+    <string name="centimeter">Centimeter</string>
+    <string name="kilometer">Kilometer</string>
+    <string name="miles">Miles</string>
+</resources>
